@@ -1,0 +1,14 @@
+C:\Users\gutek\Desktop\C#\MojaAplikacja\bin\Debug\net8.0\MojaAplikacja.exe
+C:\Users\gutek\Desktop\C#\MojaAplikacja\bin\Debug\net8.0\MojaAplikacja.deps.json
+C:\Users\gutek\Desktop\C#\MojaAplikacja\bin\Debug\net8.0\MojaAplikacja.runtimeconfig.json
+C:\Users\gutek\Desktop\C#\MojaAplikacja\bin\Debug\net8.0\MojaAplikacja.dll
+C:\Users\gutek\Desktop\C#\MojaAplikacja\bin\Debug\net8.0\MojaAplikacja.pdb
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.AssemblyInfoInputs.cache
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.AssemblyInfo.cs
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.csproj.CoreCompileInputs.cache
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.dll
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\refint\MojaAplikacja.dll
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.pdb
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\MojaAplikacja.genruntimeconfig.cache
+C:\Users\gutek\Desktop\C#\MojaAplikacja\obj\Debug\net8.0\ref\MojaAplikacja.dll
